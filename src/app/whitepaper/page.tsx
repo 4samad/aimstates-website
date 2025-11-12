@@ -10,27 +10,27 @@ export default function whitepaperPage() {
       </Link>
       <Markdown>
         {`
-# AIMDAO Whitepaper: AI Governance for the Web3 Era
+# aim states Whitepaper: AI Governance for the Web3 Era
 
 ## Executive Summary
 
-AIMDAO introduces a revolutionary platform that enables the creation and operation of AI-managed Decentralized Autonomous Organizations (DAOs) governed by predefined constitutions. By integrating advanced artificial intelligence with blockchain technology, AIMDAO addresses the critical challenges facing traditional DAOs: governance inefficiency, participation fatigue, and inconsistent decision-making. The platform empowers communities to codify their values and operational principles into constitutional frameworks that guide autonomous, transparent, and consistent governance at unprecedented speed and scale - potentially transforming not just organizational governance but reimagining judicial systems and even aspects of nation-state functionality.
+aim states introduces a revolutionary platform that enables the creation and operation of AI-managed Decentralized Autonomous Organizations (DAOs) governed by predefined constitutions. By integrating advanced artificial intelligence with blockchain technology, aim states addresses the critical challenges facing traditional DAOs: governance inefficiency, participation fatigue, and inconsistent decision-making. The platform empowers communities to codify their values and operational principles into constitutional frameworks that guide autonomous, transparent, and consistent governance at unprecedented speed and scale - potentially transforming not just organizational governance but reimagining judicial systems and even aspects of nation-state functionality.
 
 ## 1. Introduction: Reimagining Governance
 
-Decentralized Autonomous Organizations have emerged as one of the most promising innovations in organizational governance, yet they face significant operational challenges that limit their effectiveness. AIMDAO creates a new paradigm: constitutional AI governance—a system where artificial intelligence evaluates and decides on proposals according to a community-defined constitutional framework, operating at machine speed while maintaining unwavering fidelity to founding principles.
+Decentralized Autonomous Organizations have emerged as one of the most promising innovations in organizational governance, yet they face significant operational challenges that limit their effectiveness. aim states creates a new paradigm: constitutional AI governance—a system where artificial intelligence evaluates and decides on proposals according to a community-defined constitutional framework, operating at machine speed while maintaining unwavering fidelity to founding principles.
 
 ### 1.1 Vision Statement
 
-AIMDAO envisions a world where human values and principles can be encoded into constitutional frameworks that guide autonomous decision-making systems. These systems enable collective coordination at unprecedented scale and speed while remaining aligned with human values. We believe this technology can transform everything from small community organizations to global governance structures.
+aim states envisions a world where human values and principles can be encoded into constitutional frameworks that guide autonomous decision-making systems. These systems enable collective coordination at unprecedented scale and speed while remaining aligned with human values. We believe this technology can transform everything from small community organizations to global governance structures.
 
 ### 1.2 From DAO 1.0 to Constitutional AI Governance
 
-Traditional DAOs represent the first generation of decentralized governance, characterized by token-based voting and majority rule mechanisms. AIMDAO represents the next evolutionary step—governance guided by principles rather than power, operated at machine speed rather than human timescales, capable of consistently applying complex value frameworks across unlimited decisions.
+Traditional DAOs represent the first generation of decentralized governance, characterized by token-based voting and majority rule mechanisms. aim states represents the next evolutionary step—governance guided by principles rather than power, operated at machine speed rather than human timescales, capable of consistently applying complex value frameworks across unlimited decisions.
 
 ## 2. The Challenge: Limitations of Traditional DAO Governance
 
-Current DAO implementations suffer from several critical limitations that AIMDAO is designed to address:
+Current DAO implementations suffer from several critical limitations that aim states is designed to address:
 
 ### 2.1 Participation Fatigue
 
@@ -66,9 +66,9 @@ These vulnerabilities undermine trust in the governance process and create exist
 
 Many governance mechanisms require specialized knowledge of cryptographic systems, voting mechanisms, and proposal formats, limiting inclusive participation and creating governance elites.
 
-## 3. AIMDAO: Core Architecture
+## 3. aim states: Core Architecture
 
-AIMDAO introduces a new paradigm in which an AI agent serves as the constitutional interpreter and executor. This agent evaluates all proposals against a predefined set of principles, values, and rules established by the community.
+aim states introduces a new paradigm in which an AI agent serves as the constitutional interpreter and executor. This agent evaluates all proposals against a predefined set of principles, values, and rules established by the community.
 
 ### 3.1 Constitutional Framework
 
@@ -85,7 +85,7 @@ Unlike traditional smart contracts that encode rigid rules, the constitutional f
 
 ### 3.2 On-chain AI Agent
 
-The heart of AIMDAO is a transparent, auditable AI system that processes proposals and renders decisions based on constitutional alignment. This system:
+The heart of aim states is a transparent, auditable AI system that processes proposals and renders decisions based on constitutional alignment. This system:
 
 - Operates entirely on-chain
 - Produces deterministic outputs given the same inputs
@@ -94,7 +94,7 @@ The heart of AIMDAO is a transparent, auditable AI system that processes proposa
 
 ### 3.3 Proposal Interface
 
-AIMDAO provides a user-friendly system for members to submit proposals with standardized formats that facilitate AI interpretation. The interface:
+aim states provides a user-friendly system for members to submit proposals with standardized formats that facilitate AI interpretation. The interface:
 
 - Guides proposal creation with templates
 - Ensures all necessary information is included
@@ -112,7 +112,7 @@ While day-to-day governance is managed by the AI agent, the constitutional frame
 
 ## 4. Technical Architecture
 
-AIMDAO's architecture combines several technological innovations to create a robust governance system:
+aim states's architecture combines several technological innovations to create a robust governance system:
 
 ### 4.1 Constitutional Language Framework
 
@@ -148,7 +148,7 @@ Past decisions cannot be altered retroactively, creating a permanent record of c
 
 ### 4.3 Technical Implementation
 
-AIMDAO is built on a layered architecture:
+aim states is built on a layered architecture:
 
 1. **Blockchain Layer**: Provides the underlying trust, consensus, and immutability mechanisms
 2. **Smart Contract Layer**: Implements the core logic for proposal submission, constitutional storage, and decision execution
@@ -157,7 +157,7 @@ AIMDAO is built on a layered architecture:
 
 ### 4.4 Integration with Existing Web3 Infrastructure
 
-AIMDAO is designed to integrate with:
+aim states is designed to integrate with:
 
 - Multiple blockchain ecosystems (Ethereum, Solana, etc.)
 - DeFi protocols for treasury management
@@ -167,7 +167,7 @@ AIMDAO is designed to integrate with:
 
 ## 5. Governance Process Flow
 
-The AIMDAO governance process follows a streamlined flow:
+The aim states governance process follows a streamlined flow:
 
 1. **Proposal Submission**: A member submits a proposal through the standard interface
 2. **AI Constitutional Review**: The on-chain AI evaluates the proposal against the constitutional framework
@@ -183,7 +183,7 @@ This process occurs at machine speed, potentially reducing governance timeframes
 
 #### 6.1.1 Community Treasury Management
 
-AIMDAO can evaluate funding proposals against constitutional priorities, ensuring consistent allocation of resources aligned with community values. Decision speed enables rapid response to emerging opportunities without governance delays.
+aim states can evaluate funding proposals against constitutional priorities, ensuring consistent allocation of resources aligned with community values. Decision speed enables rapid response to emerging opportunities without governance delays.
 
 #### 6.1.2 Protocol Governance
 
@@ -197,7 +197,7 @@ Reward systems can be consistently administered according to constitutional prin
 
 #### 6.2.1 Dispute Resolution
 
-AIMDAO can form the basis of decentralized justice systems that resolve disputes according to constitutional principles with consistent application across all cases.
+aim states can form the basis of decentralized justice systems that resolve disputes according to constitutional principles with consistent application across all cases.
 
 #### 6.2.2 Content Moderation
 
@@ -229,11 +229,11 @@ Social support systems can be administered according to constitutional principle
 
 #### 6.4.3 Network States
 
-AIMDAO provides the technological foundation for network states—digital-first governance systems that operate according to constitutional principles accepted by their citizens regardless of physical location.
+aim states provides the technological foundation for network states—digital-first governance systems that operate according to constitutional principles accepted by their citizens regardless of physical location.
 
 ## 7. Ethical Considerations and Safeguards
 
-AIMDAO acknowledges several important ethical considerations in its design:
+aim states acknowledges several important ethical considerations in its design:
 
 ### 7.1 Constitutional Sovereignty
 
@@ -249,7 +249,7 @@ Constitutional amendments require human consensus through traditional governance
 
 ### 7.4 Appeal Mechanisms
 
-AIMDAO supports optional human appeal processes for exceptional circumstances. Communities can implement escalation paths for decisions that require additional consideration.
+aim states supports optional human appeal processes for exceptional circumstances. Communities can implement escalation paths for decisions that require additional consideration.
 
 ### 7.5 Ethical Red Lines
 
@@ -262,7 +262,7 @@ The platform prohibits constitutional frameworks that:
 
 ## 8. Justice as a Foundational Principle
 
-A core premise of AIMDAO is that the AI system can only act in accordance with justice as defined in the constitutional framework. This creates several powerful advantages:
+A core premise of aim states is that the AI system can only act in accordance with justice as defined in the constitutional framework. This creates several powerful advantages:
 
 ### 8.1 Consistent Application
 
@@ -282,7 +282,7 @@ The AI evaluates proposals purely on their constitutional merits, without regard
 
 ## 9. Theoretical Foundations
 
-AIMDAO builds upon several theoretical traditions:
+aim states builds upon several theoretical traditions:
 
 ### 9.1 Constitutional Theory
 
@@ -294,7 +294,7 @@ The system applies mechanism design principles to create governance structures t
 
 ### 9.3 AI Alignment
 
-AIMDAO represents a practical implementation of AI alignment techniques, ensuring that autonomous systems operate according to human values and intentions.
+aim states represents a practical implementation of AI alignment techniques, ensuring that autonomous systems operate according to human values and intentions.
 
 ### 9.4 Deliberative Democracy
 
@@ -302,7 +302,7 @@ The constitutional creation process draws on deliberative democratic principles,
 
 ## 10. Economic Model
 
-AIMDAO operates on a sustainable economic model:
+aim states operates on a sustainable economic model:
 
 ### 10.1 Platform Utility Token
 
@@ -315,7 +315,7 @@ A native utility token (AIMD) provides:
 
 ### 10.2 Service Fees
 
-Organizations using AIMDAO pay fees based on:
+Organizations using aim states pay fees based on:
 
 - Complexity of constitutional framework
 - Volume of proposals processed
@@ -333,17 +333,17 @@ A portion of fees flows to:
 
 ## 11. Conclusion and Vision
 
-AIMDAO represents a significant evolution in decentralized governance, addressing the critical limitations of traditional DAO structures while preserving the core values of decentralization, transparency, and community sovereignty. By enabling AI-managed constitutional governance, the platform offers a path toward more consistent, principled, and scalable decentralized organizations.
+aim states represents a significant evolution in decentralized governance, addressing the critical limitations of traditional DAO structures while preserving the core values of decentralization, transparency, and community sovereignty. By enabling AI-managed constitutional governance, the platform offers a path toward more consistent, principled, and scalable decentralized organizations.
 
-The marriage of artificial intelligence and blockchain technology in service of community-defined values opens new possibilities not just for organizational governance but potentially for rethinking fundamental aspects of social coordination. As we navigate the complex challenges of the 21st century, AIMDAO provides a framework that aligns technological capabilities with human values and aspirations.
+The marriage of artificial intelligence and blockchain technology in service of community-defined values opens new possibilities not just for organizational governance but potentially for rethinking fundamental aspects of social coordination. As we navigate the complex challenges of the 21st century, aim states provides a framework that aligns technological capabilities with human values and aspirations.
 
 We invite communities, developers, governance researchers, and visionaries to join us in building this new paradigm of constitutional AI governance—a system that can scale from small community organizations to potentially transformative global coordination mechanisms.
 
 ## Contact
 
-For more information about AIMDAO
+For more information about aim states
 
-- Website: [aimdao.xyz](https://aimdao.xyz)
+- Website: [aim states.xyz](https://aim states.xyz)
 - Twitter: [@appetite_studio](https://x.com/appetite_studio)
 
             `}

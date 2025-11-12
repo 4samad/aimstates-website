@@ -1,4 +1,4 @@
-# AIMDAO Website
+# aim states Website
 
 ---
 

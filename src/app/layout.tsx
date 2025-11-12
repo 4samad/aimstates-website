@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 
 const inter = Inter({
   variable: "--font-inter-sans",
@@ -10,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AIMDAO",
+  title: "aim states",
   description: "Ai-managed DAOs for the future",
 };
 
@@ -22,12 +20,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="apple-mobile-web-app-title" content="AIMDAO" />
+        <meta name="apple-mobile-web-app-title" content="aim states" />
       </head>
       <body className={`${inter.variable} scroll-smooth antialiased`}>
-        <Header />
         {children}
-        <Footer />
       </body>
     </html>
   );

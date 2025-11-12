@@ -11,15 +11,15 @@ export default function Header() {
           className="bg-opacity-50 rounded bg-white px-4 py-2 backdrop-blur-3xl"
         >
           <Image
-            src="/assets/aimdao-logo-full.svg"
-            alt="AIMDAO Logo"
+            src="/assets/aim states-logo-full.svg"
+            alt="aim states Logo"
             width={120}
             height={48}
           />
         </Link>
       </div>
       <div className="navbar-end p-4">
-        <a target="_blank" href="https://app.aimdao.xyz" className="btn">
+        <a target="_blank" href="https://app.aim states.xyz" className="btn">
           <span className="flex items-center gap-2">
             <FaExternalLinkAlt /> Try app (alpha)
           </span>

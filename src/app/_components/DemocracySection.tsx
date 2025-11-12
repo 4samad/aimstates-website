@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function DemocracySection() {
   return (
-    <div className="hero overflow-clip bg-neutral-950 py-12 text-white">
+    <div className="hero flex min-h-dvh items-center justify-center overflow-clip bg-neutral-950 py-12 text-white">
       <div className="hero-content flex-col gap-6 lg:flex-row lg:gap-12">
         <div className="relative">
           <Image
@@ -33,15 +33,11 @@ export default function DemocracySection() {
 
         <div>
           <p className="max-w-2xl py-6 text-2xl lg:text-3xl">
-            With a predefined constitution, decisions are made efficiently and
-            transparently, ensuring that every member&apos;s voice is heard.{" "}
-            <span className="opacity-40">
-              Empower Your Organization with AI-Driven Autonomous Management and
-              Governance.
-            </span>
+            Build States based on Ideals, Values and Belief.{" "}
+            <span className="opacity-40">Not Territory.</span>
           </p>
-          <a href="/whitepaper" className="btn btn-primary">
-            Read Whitepaper
+          <a href="https://x.com/aimDaoGov" className="btn btn-primary">
+            Get notified on launch
           </a>
         </div>
       </div>
