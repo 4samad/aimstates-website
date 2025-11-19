@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { FaXTwitter } from "react-icons/fa6";
 
 export default function DemocracySection() {
   return (
@@ -9,13 +10,13 @@ export default function DemocracySection() {
           <Image
             className="h-120 rounded-lg object-cover shadow-2xl"
             src="/assets/painting-democracy.jpg"
-            height={600}
-            width={400}
+            height={1080}
+            width={1920}
             alt="Democracy painting"
           />
 
           {/* Circular text overlay */}
-          <div className="absolute -right-4 bottom-4 flex h-32 w-32 animate-spin items-center justify-center rounded-full bg-neutral-950 shadow-lg [animation-duration:_20s]">
+          <div className="absolute -right-4 lg:-right-8 bottom-4 flex h-32 w-32 animate-spin items-center justify-center rounded-full bg-neutral-950 shadow-lg [animation-duration:_20s]">
             <svg viewBox="0 0 100 100" width="100%" height="100%">
               <path
                 id="circlePath"
@@ -36,8 +37,8 @@ export default function DemocracySection() {
             Build States based on Ideals, Values and Belief.{" "}
             <span className="opacity-40">Not Territory.</span>
           </p>
-          <a href="https://x.com/AimStates" className="btn btn-primary">
-            Get notified on launch
+          <a href="https://x.com/AimStates" target="_blank" className="btn btn-primary flex w-fit p-0 gap-1">
+            Get notified on launch <FaXTwitter />
           </a>
         </div>
       </div>

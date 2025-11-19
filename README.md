@@ -1,4 +1,4 @@
-# aim states Website
+# aim states waiting list
 
 ---
 
