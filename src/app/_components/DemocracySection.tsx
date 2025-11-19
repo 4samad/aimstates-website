@@ -36,7 +36,7 @@ export default function DemocracySection() {
             Build States based on Ideals, Values and Belief.{" "}
             <span className="opacity-40">Not Territory.</span>
           </p>
-          <a href="https://x.com/aimDaoGov" className="btn btn-primary">
+          <a href="https://x.com/AimStates" className="btn btn-primary">
             Get notified on launch
           </a>
         </div>
